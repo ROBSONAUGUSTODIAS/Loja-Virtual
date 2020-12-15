@@ -1,0 +1,16 @@
+.titulo{
+    color:#666;
+}
+.custom-file-input[_ngcontent-c2]:lang(en) ~ .custom-file-label[_ngcontent-c2]::after {
+  content: "Selecionar";
+}
+
+.invalid-feedback{
+    display:block;
+}
+
+.valid-feedback {
+  display: block;
+}
+
+
